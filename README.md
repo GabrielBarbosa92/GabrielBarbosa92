@@ -17,6 +17,8 @@
 ## Em construção
 ### Desenvolvimento Web - Front End
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Areas de conhecimento
 ### * Matemática(Sou daqueles que calculam tudo!) e Física(E = mc²)
 ### * Sei um pouco sobre desenvolvimento de jogos(Unity)
